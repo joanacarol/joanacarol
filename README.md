@@ -32,14 +32,12 @@ Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidad
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### 📊 Estatísticas
-<p>
-<img 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-## Onde me encontrar
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxcarolixx&theme=tokyonight&custom_title=Tecnologias&layout=compact&langs_count=8&card_width=320"/>
+</a>
+
+### 🌐 Onde me encontrar
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanacarolinasilvaalves) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xxcarolixx)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/soucarolinaj)
