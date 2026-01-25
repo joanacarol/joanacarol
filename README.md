@@ -34,11 +34,11 @@ Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidad
 ### 📊 Estatísticas
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxcarolixx&theme=tokyonight&custom_title=Tecnologias&layout=compact&langs_count=8&card_width=320"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanacarol&theme=tokyonight&custom_title=Tecnologias&layout=compact&langs_count=8&card_width=320"/>
 </a>
 
 ### 🌐 Onde me encontrar
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanacarolinasilvaalves) 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xxcarolixx)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joanacarol)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/soucarolinaj)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanacarolinaslaves@gmail.com)
