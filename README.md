@@ -9,7 +9,9 @@
 
 Bem-vindo!
 
-Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul e estou direcionando meus estudos com foco em desenvolvimento web, porém também possuem interesse em ciência de dados. Estou desenvolvendo minhas habilidades em : HTML, CSS, JavaScript e Java.
+Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul e estou direcionando meus estudos, no momento, com foco em desenvolvimento backend e dados para aplicar às vagas de estágios. Meu objetivo final é me tornar uma Engenheira de Dados. Estou desenvolvendo minhas habilidades em : HTML, CSS, JavaScript e Java.
+
+
 
 ### 🤖 Minhas Skills
 **Aplicações e dados**
