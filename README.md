@@ -2,14 +2,14 @@
 
 
 **`#Babydev`**
-**`#Iniciante`**
+**`#Dados`**
 **`#TI`**
 **`#Java`**
 **`#Backend`**
 
 Bem-vindo!
 
-Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul e estou direcionando meus estudos, no momento, com foco em desenvolvimento backend e dados para aplicar às vagas de estágios. Meu objetivo final é me tornar uma Engenheira de Dados. Estou desenvolvendo minhas habilidades em : HTML, CSS, JavaScript e Java.
+Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidade Federal do Mato Grosso do Sul e estou direcionando meus estudos, no momento, com foco em desenvolvimento backend e dados para aplicar às vagas de estágios. Meu objetivo final é me tornar uma Engenheira de Dados. Estou desenvolvendo minhas habilidades em : Python, HTML, CSS, JavaScript e Java.
 
 
 
@@ -32,12 +32,6 @@ Me chamo Joana Carol, sou estudante de Tecnologia da Informação na Universidad
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Intellij IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-### 📊 Estatísticas
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanacarol&theme=tokyonight&custom_title=Tecnologias&layout=compact&langs_count=8&card_width=320"/>
-</a>
 
 ### 🌐 Onde me encontrar
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanacarolinasilvaalves) 
