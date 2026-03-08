@@ -9,7 +9,7 @@
 
 Bem-vindo!
 
-Me chamo Joana Carol, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e estou direcionando meus estudos, no momento, com foco em desenvolvimento backend desenvolvimento Java orientado a dados (POO, SQL, JDBC e JPA) para aplicar às vagas de estágios. Meu objetivo final é me tornar uma Engenheira de Dados.
+Me chamo Joana Carol, sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e estou direcionando meus estudos, no momento, com foco em desenvolvimento backend Java orientado a dados (POO, SQL, JDBC e JPA) para aplicar às vagas de estágios. Meu objetivo final é me tornar uma Engenheira de Dados.
 
 
 
